@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+.idea/
+*.user
+*.suo
+TestResults/
+**/TestResults/
+*.coverage
+*.coveragexml
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
